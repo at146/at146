@@ -2,5 +2,6 @@
 
 👋 Hi, I’m Alex  
 👀 [Semantic Versioning 2.0.0](https://semver.org/)
+🥸 [Conventional Commits](https://www.conventionalcommits.org)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexName1&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
